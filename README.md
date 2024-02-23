@@ -10,7 +10,7 @@ I've navigated through various roles to where I am today:
 
 🚀 **About Me**
 
-With over 10 years of experience across banking, FMCG, and consulting sectors, my journey began in civil engineering, transitioning into finance and risk analytics, and ultimately converging on data science and business intelligence. An MBA from INCAE Business School and a Master's in Data Science from the University of British Columbia have equipped me with a robust toolkit for driving business transformation through data-driven strategies. Currently, as a Financial Planning & Analysis Manager at Gildan, I leverage data analytics to optimize financial operations worldwide. My passion lies in melding analytical rigor with strategic insight to solve complex business challenges.
+With over 10 years of experience across banking, FMCG, and consulting sectors, my journey began in civil engineering, transitioning into finance and risk analytics, and ultimately converging on data science and business intelligence. An MBA from INCAE Business School and a Master's in Data Science from the University of British Columbia have equipped me with a robust toolkit for driving business transformation through data-driven strategies. As a leader, I have leveraged data analytics to optimize financial operations worldwide. My passion lies in melding analytical rigor with strategic insight to solve complex business challenges.
 
 I've always been passionate about the intersection of data, business, and technology.
 
@@ -18,6 +18,57 @@ I've always been passionate about the intersection of data, business, and techno
 ![INCAE](https://img.shields.io/badge/INCAE-MBA-blue)
 ![UNITEC](https://img.shields.io/badge/UNITEC-Master's%20in%20Project%20Management-lightgrey)
 ![UNITEC](https://img.shields.io/badge/UNITEC-Civil%20Engineering-lightgrey)
+
+
+## 🛠️ Featured Projects
+
+Throughout my career, I've led and contributed to transformative projects in various industries, demonstrating a blend of technical prowess and leadership. Below are highlights from key sectors:
+
+### Banking Sector
+
+- **Funds Management Modeling**
+  - Developed an innovative model to optimize client fund acquisition and allocation.
+  - Required deep analytical skills and strategic financial modeling.
+
+- **Machine Learning Credit Scoring Model**
+  - Spearheaded development, improving loan repayment predictions with machine learning.
+  - Demonstrated proficiency in algorithms, data analysis, and risk management.
+
+- **Risk and Financial Analytics Department Foundation**
+  - Established analytics departments, automating reporting ecosystems for efficiency.
+  - Showcased leadership, strategic planning, and technical data analytics skills.
+
+### FMCG/Retail
+
+- **Cloud-Based Data Warehouse Creation**
+  - Led development of a centralized data warehouse, streamlining data processes.
+  - Highlighted large-scale IT project management and data management solutions.
+
+- **All-Client Pricing Strategy**
+  - Implemented a profit model for diverse product ranges, significantly increasing profits.
+  - Required strategic insight into market dynamics and pricing models.
+
+### Consulting
+
+- **Omnichannel Strategy Consultant**
+  - Designed an omnichannel retailing strategy, ensuring seamless customer experience.
+  - Showcased strategic thinking, project management, and digital transformation skills.
+
+- **Business Intelligence Consultant**
+  - Developed a mini data warehouse and machine learning algorithms for demand forecasting.
+  - Demonstrated technical expertise in data science and actionable business strategies.
+
+### Skills Highlight
+
+- **Leadership and Team Management**: Successfully led cross-functional teams towards common goals.
+- **Strategic Planning and Execution**: Developed and implemented strategies driving business growth.
+- **Technical Proficiency**: Advanced in machine learning, data analytics, and financial modeling.
+- **Innovative Problem-Solving**: Employed analytical approaches to solve complex challenges.
+- **Effective Communication**: Ensured alignment across teams by articulating complex concepts clearly.
+
+These projects represent part of my journey at the intersection of data science, finance, and strategic business insights.
+
+
 
 ## 🌐 What I Know
 
