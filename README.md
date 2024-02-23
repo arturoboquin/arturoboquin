@@ -52,9 +52,16 @@ I've always been passionate about the intersection of data, business, and techno
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## Let's Connect
-I'm on the lookout for senior management opportunities where I can bring my unique blend of skills to bear on challenging problems. If you're interested in collaborating or want to learn more about my work, please reach out!
+I'm on the lookout for senior management opportunities where I can apply my blend of skills in data science, finance, and strategic analysis to solve complex problems. If you're interested in collaborating, or if you want to discuss potential opportunities, feel free to connect with me through the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](arturoboquin) [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.boquin1990@gmail.com)
+[![Email](https://img.shields.io/badge/Email-a.boquin1990%40gmail.com-blue?style=flat&logo=gmail)](mailto:a.boquin1990@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arturo_Boquin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arturoboquin/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-arturoboquin-blue?style=flat&logo=kaggle)](https://www.kaggle.com/arturoboquin)
+
+- **Email:** [a.boquin1990@gmail.com](mailto:a.boquin1990@gmail.com)
+- **LinkedIn:** [linkedin.com/in/arturoboquin](https://www.linkedin.com/in/arturoboquin/)
+- **Kaggle:** [kaggle.com/arturoboquin](https://www.kaggle.com/arturoboquin)
+
 
 
 
