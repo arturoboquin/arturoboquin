@@ -1,11 +1,23 @@
 # Hi there, I'm Arturo Boquin 👋
 
 It's a pleasure to meet you!
-I've navigated through various roles in finance, risk management, and data science to where I am today.
+I've navigated through various roles to where I am today:
+### Senior Manager | Financial & Risk Modeling | Data Science | Strategic Business Insights
+![Location](https://img.shields.io/badge/Location-Vancouver%2C%20BC-blue)
+![Role](https://img.shields.io/badge/Role-UBC%20Student-lightgrey)
+![Looking For](https://img.shields.io/badge/Looking%20For-Senior%20Management%20Role-green)
+
 
 🚀 **About Me**
 
 With over 10 years of experience across banking, FMCG, and consulting sectors, my journey began in civil engineering, transitioning into finance and risk analytics, and ultimately converging on data science and business intelligence. An MBA from INCAE Business School and a Master's in Data Science from the University of British Columbia have equipped me with a robust toolkit for driving business transformation through data-driven strategies. Currently, as a Financial Planning & Analysis Manager at Gildan, I leverage data analytics to optimize financial operations worldwide. My passion lies in melding analytical rigor with strategic insight to solve complex business challenges.
+
+I've always been passionate about the intersection of data, business, and technology.
+
+![UBC](https://img.shields.io/badge/UBC-Master's%20in%20Data%20Science-brightgreen)
+![INCAE](https://img.shields.io/badge/INCAE-MBA-blue)
+![UNITEC](https://img.shields.io/badge/UNITEC-Master's%20in%20Project%20Management-lightgrey)
+![UNITEC](https://img.shields.io/badge/UNITEC-Civil%20Engineering-lightgrey)
 
 ## 🌐 What I Know
 
@@ -39,21 +51,10 @@ With over 10 years of experience across banking, FMCG, and consulting sectors, m
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+## Let's Connect
+I'm on the lookout for senior management opportunities where I can bring my unique blend of skills to bear on challenging problems. If you're interested in collaborating or want to learn more about my work, please reach out!
 
-🌱 **Currently Learning:**
-- Advanced machine learning techniques
-- Cloud computing platforms like AWS and GCP to enhance my data engineering skills
-
-👨‍💻 **Professional Highlights:**
-- Led data analytics and FP&A initiatives at Gildan, driving significant improvements in financial decision-making.
-- Spearheaded the development of machine learning models for credit risk assessment at Banco Atlantida, reducing default rates by 50%.
-- Managed cross-functional teams to develop and analyze key financial and risk metrics at Banco Ficohsa.
-
-📈 **Looking Forward:**
-I am keen on exploring opportunities that allow me to leverage my expertise in data science and analytics within the finance and risk management domains, contributing to innovative solutions that drive growth and operational efficiency.
-
-💬 **Let's Connect!**
-I'm always open to discussing new projects or opportunities where I can bring my experience in data science and financial analysis to bear. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arturoboquin/).
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn)](arturoboquin) [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white)](mailto:a.boquin1990@gmail.com)
 
 
 
