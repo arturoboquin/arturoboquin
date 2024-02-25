@@ -1,8 +1,8 @@
-# Hi there, I'm Arturo Boquin 👋
+# Hi there, I'm Arturo Boquin 👋🏼
 
 It's a pleasure to meet you!
 I've navigated through various roles to where I am today:
-### Senior Manager | Financial & Risk Modeling | Data Science | Strategic Business Insights
+### Senior Manager | Financial & Risk Modeling | Data Science | Strategic Business Planning
 ![Location](https://img.shields.io/badge/Location-Vancouver%2C%20BC-blue)
 ![Role](https://img.shields.io/badge/Role-UBC%20Student-lightgrey)
 ![Looking For](https://img.shields.io/badge/Looking%20For-Senior%20Management%20Role-green)
